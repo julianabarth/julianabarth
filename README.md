@@ -14,10 +14,12 @@
 <p>
   Também estou iniciando meus estudos em:
 </p>
-
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="logo-JavaScript"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="logo-React"/>
-
+<div class="badges" role="list" aria-label="Tecnologias em estudo">
+    <img role="listitem" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+    <img role="listitem" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+    <img role="listitem" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+    <img role="listitem" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  </div>
 
 
 [![Juliana Stats](https://github-readme-stats.vercel.app/api?username=julianabarth)](https://github.com/anuraghazra/github-readme-stats)
