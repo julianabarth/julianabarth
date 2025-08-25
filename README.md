@@ -1,4 +1,4 @@
-## Hi there 👋
+Olá 👋
 
 Eu sou a Juliana Barth 
 <a href="www.linkedin.com/in/juliana-barth-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo-linkedin"/>
