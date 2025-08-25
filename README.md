@@ -15,3 +15,5 @@ Eu sou a Juliana Barth, sou programadora Front-End, atualmente estou aprendendo 
 
 
 [![Juliana Stats](https://github-readme-stats.vercel.app/api?username=julianabarth)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianabarth)](https://github.com/anuraghazra/github-readme-stats)
